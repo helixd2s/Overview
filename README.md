@@ -1,2 +1,7 @@
 # Overview
-Overview of organization
+
+Flagship products and projects will be located here...
+
+## Patreon 
+
+https://www.patreon.com/helixd
