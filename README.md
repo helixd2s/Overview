@@ -2,6 +2,7 @@
 
 Flagship products and projects will be located here...
 
-## Patreon 
+### Donations and Participations
 
-https://www.patreon.com/helixd
+- https://www.patreon.com/helixd
+- https://www.paypal.me/helixd
