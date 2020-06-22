@@ -15,3 +15,9 @@ Flagship products and projects will be located here...
 - https://github.com/helixd2s/MineVKR (paused)
 - https://github.com/helixd2s/JiviX (waiting new driver)
 
+
+### Teaming
+
+After Patreon charge from *4$ or beyond*, you can ask me for invite into organization with access to private projects...
+You may got BAN in team, if you NOT charge in Patreon while limited time... 
+
